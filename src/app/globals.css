@@ -18,10 +18,11 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: rgb(255, 255, 255);
+}
+h1{
+  font-family: var(--font-jakarta);
+  font-weight: 800;
+  font-size: 48px;
+  color: rgb(0, 23, 55);
 }
