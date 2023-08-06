@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import { Plus_Jakarta_Sans } from 'next/font/google'
 import Navbar from './_compenents/Navbar'
 import Footer from './_compenents/Footer'
+import { Analytics } from '@vercel/analytics/react';
 export const inter = Inter({ subsets: ['latin'],  variable: '--font-inter', })
 export const jakarta =Plus_Jakarta_Sans({subsets: ['latin'], variable: '--font-jakarta'})
 
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Navbar/>
         {children}
+        <Analytics />
         <Footer/>
         </body>
     </html>
