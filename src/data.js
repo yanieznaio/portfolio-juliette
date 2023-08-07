@@ -4,6 +4,7 @@ import myota from '../assets/myota.png'
 import goodfit from '../assets/goodfitClone.png'
 import chessgame from '../assets/chessGame.png'
 import pokedex from '../assets/pokedex.png'
+import beerTrack from "../assets/beerTrack.png"
 export const projects = [
     {
         name: "Pomodoro",
@@ -47,6 +48,12 @@ export const projects = [
   descrtiption:"Un site qui utilise l'API PokeAPI pour afficher les informations des Pokémon.",
   img: pokedex,
   url: "https://msdv96.csb.app/",
+  techno: ["react"]}
+  ,
+ { name: "BeerTrack",
+  descrtiption:"Ce site vous propose des brasseries proche de votre position grace à l'API openbrewerydb",
+  img: beerTrack,
+  url: "https://ibrw0h.csb.app/",
   techno: ["react"]}
   
   ]
