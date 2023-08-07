@@ -14,7 +14,7 @@ const WorkTogther = () => {
                 <h3 className={`font-bold text-[20px] md:text-[24px] text-dark-light`}>Je recherche actuellement un travail.</h3>
                 </div>
          
-                <p className=' text-[13px] md:text-[16px] text-dark-light2 '>Je recherche actuellement un poste de développeuse front-end ,  Vous recherchez un/e développeur/se créatif / front end  ?</p>
+                <p className=' text-[13px] md:text-[16px] text-dark-light2 '>Je recherche actuellement un poste de développeuse front-end ,  Vous recherchez une développeuse créative/ front end  ?</p>
                 <Link className='transition ease-in-out flex items-center gap-2 bg-dark-light text-white rounded-md w-fit p-3 text-[14px] font-medium hover:opacity-80' href="/contact">Me contacter <BsArrowRight/></Link>
             </div>
 
