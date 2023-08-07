@@ -39,7 +39,7 @@ export const projects = [
 
   {
   name: "ChessGame",
-  descrtiption: "Un jeu d'échecs créé de zéro avec React.",
+  descrtiption: "Un jeu d'échecs créé de zéro avec React. (en Production)",
   img: chessgame,
   url: "https://clvwpv.csb.app/",
   techno: ["react"]
@@ -49,12 +49,7 @@ export const projects = [
   img: pokedex,
   url: "https://msdv96.csb.app/",
   techno: ["react"]}
-  ,
- { name: "BeerTrack",
-  descrtiption:"Ce site vous propose des brasseries proche de votre position grace à l'API openbrewerydb",
-  img: beerTrack,
-  url: "https://ibrw0h.csb.app/",
-  techno: ["react"]}
+
   
   ]
 
