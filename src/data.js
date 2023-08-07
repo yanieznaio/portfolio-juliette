@@ -16,7 +16,7 @@ export const projects = [
     },
     {
         name: "Reedo",
-        descrtiption: "Reedo est une bibliothèque numérique créée avec React. Elle vous permet d'ajouter ou de modifier des livres à votre profil. Vous pouvez également visualiser la bibliothèque d'autres utilisateurs. Vous pouvez retrouver le code d'une version de ce projet incluant une partie serveur sur mon GitHub. Actuellement, ce lien mène vers une démo du front uniquement accessible sur CodeSandbox."        ,
+        descrtiption: "Reedo est une bibliothèque numérique créée avec React. Elle vous permet d'ajouter ou de modifier des livres à votre profil. Vous pouvez également visualiser la bibliothèque d'autres utilisateurs. Vous pouvez retrouver le code d'une version de ce projet incluant une partie serveur sur mon GitHub. Actuellement, ce lien mène vers une démo du front uniquement accessible sur CodeSandbox.(en production)"        ,
         img: reedo,
         url: "https://kdvp57.csb.app/",
         techno:[ 'react']
