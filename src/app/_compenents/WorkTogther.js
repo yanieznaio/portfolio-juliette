@@ -11,7 +11,7 @@ const WorkTogther = () => {
             <div className='mt-28 bg-light-gray2 p-[40px] flex flex-col gap-4 rounded-2xl w-3/4 md:w-full mx-auto'>
                 <div className='flex gap-4 items-center'>
                     <Image src={emoji} alt="emoji" width={40} height={40} className='hidden md:block'></Image>
-                <h3 className={`font-bold text-[20px] md:text-[24px] text-dark-light`}>Je cherche actuellement un travail.</h3>
+                <h3 className={`font-bold text-[20px] md:text-[24px] text-dark-light`}>Je recherche actuellement un travail.</h3>
                 </div>
          
                 <p className=' text-[13px] md:text-[16px] text-dark-light2 '>Je recherche actuellement un poste de développeuse front-end ,  Vous recherchez un/e développeur/se créatif / front end  ?</p>
