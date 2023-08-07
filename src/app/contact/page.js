@@ -93,7 +93,7 @@ export default function Page() {
         <input type="text" 
            required
            name="user_name"
-        placeholder="name" 
+        placeholder="Nom" 
         className="outline-none bg-light-gray2 py-2 rounded-md px-4">
 
         </input>
