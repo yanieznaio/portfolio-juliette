@@ -7,6 +7,21 @@ import pokedex from '../assets/pokedex.png'
 import beerTrack from "../assets/beerTrack.png"
 import animateflowers from "../assets/animate-flower.png"
 export const projects = [
+{
+        name: "Goodfit",
+        descrtiption: "Un Clone de la page d'acceuil du site Goodfit. J'ai également implémenté la fonctionnalité d'ajout d'articles au panier.",
+        img: goodfit,
+        url: "https://0hpqkn.csb.app/",
+        techno:[ 'react']
+    },
+    
+    {
+        name: "Myota",
+        descrtiption: "Un clone de la page d'acceuil du site Myota",
+        img: myota,
+        url: "https://js7xwx.csb.app/",
+        techno: ['react']
+    },
     {
         name: "Pomodoro",
         descrtiption: "Un Pomodoro créé avec React. Je me suis inspiré du design du site lifeat.io.",
@@ -31,20 +46,7 @@ export const projects = [
         techno:[ 'react']
   
     },
-    {
-        name: "Myota",
-        descrtiption: "Un clone de la page d'acceuil du site Myota",
-        img: myota,
-        url: "https://js7xwx.csb.app/",
-        techno: ['react']
-    },
-    {
-        name: "Goodfit",
-        descrtiption: "Un Clone de la page d'acceuil du site Goodfit. J'ai également implémenté la fonctionnalité d'ajout d'articles au panier.",
-        img: goodfit,
-        url: "https://0hpqkn.csb.app/",
-        techno:[ 'react']
-    },
+   
 
   {
   name: "ChessGame",
