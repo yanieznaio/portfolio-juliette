@@ -82,7 +82,7 @@ export default function Page() {
 
     <motion.h1 variants={text} initial="hidden" animate="visible" className={` font-extrabold text-[35px] md:text-[48px] text-dark-light leading-[48px]`}>Contactez moi.</motion.h1>
     <motion.p variants={text} initial="hidden" animate="visible" className='text-[14px] md:text-[15px] leading-[22.4px] md:leading-[25.6px]  text-dark-light2'>
-    Vous souhaitez me contacter ? Vous recherchez un développeur créatif / front end ?
+    Vous souhaitez me contacter ? Vous recherchez une développeuse front end ?
     Vous pouvez dès maintenant m’envoyer un message grâce à ce formulaire de contact. Je vous répondrez dans les plus brefs délais.
     </motion.p>
 
@@ -108,7 +108,7 @@ export default function Page() {
     </div>
     <textarea placeholder="message" 
        required
-       name="message"
+       name="Message"
     className="outline-none p-2 h-48 w-full bg-light-gray2 rounded-md resize-none"></textarea>
     <button type="submit" className="transition ease-in-out w-full  bg-dark-light text-white rounded-md p-3 hover:opacity-80 font-semibold text-[15px]">Envoyer le message</button>
     </motion.form>
