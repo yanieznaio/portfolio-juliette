@@ -11,7 +11,7 @@ export const projects = [
         name: "Pomodoro",
         descrtiption: "Un Pomodoro créé avec React. Je me suis inspiré du design du site lifeat.io.",
         img: pomodoro,
-        url: "https://k7e192.csb.app/2",
+        url: "https://k7e192.csb.app/",
         techno: ['react']
   
     },
